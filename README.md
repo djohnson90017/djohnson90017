@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darrell! A Cybersecurity lover who love to learn .
+<h1>Hi, I'm Darrell! I created a Honeypot check it out .
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
